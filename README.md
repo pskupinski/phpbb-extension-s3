@@ -6,8 +6,8 @@ An extension for [phpBB 3.2](https://www.phpbb.com) that utilizes AWS S3 as the 
 
 This repo is an updated fork of the [AusinMaddox/s3](https://github.com/AustinMaddox/phpbb-extension-s3) phpbb extension.
 
-This fork includes:
-* Support for phpbb 3.2 and php 7.2+
+This fork adds:
+* phpbb 3.2 and php 7.2+ support
 * CDN domain support
 
 ## Installation
