@@ -4,6 +4,12 @@
 
 An extension for [phpBB 3.2](https://www.phpbb.com) that utilizes AWS S3 as the filesystem for uploaded files.
 
+This repo is an updated fork of the [AusinMaddox/s3](https://github.com/AustinMaddox/phpbb-extension-s3) phpbb extension.
+
+This fork includes:
+* Support for phpbb 3.2 and php 7.2+
+* CDN domain support
+
 ## Installation
 
 Clone into phpBB/ext/pskupinski/s3:
