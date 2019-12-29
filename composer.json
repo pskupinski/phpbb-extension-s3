@@ -1,9 +1,9 @@
 {
-  "name": "AustinMaddox/s3",
+  "name": "pskupinski/s3",
   "type": "phpbb-extension",
   "description": "An extension that utilizes AWS S3 as the filesystem for uploaded files.",
-  "homepage": "https://github.com/AustinMaddox/phpbb-extension-s3",
-  "version": "1.0.3",
+  "homepage": "https://github.com/pskupinski/phpbb-extension-s3",
+  "version": "1.0.4",
   "keywords": [
     "phpbb",
     "extension",
@@ -13,7 +13,7 @@
     "s3",
     "phpbb-extension-s3"
   ],
-  "time": "2017-05-15",
+  "time": "2019-12-29",
   "license": "GPL-2.0",
   "authors": [
     {
@@ -21,12 +21,18 @@
       "email": "austin@maddoxbox.com",
       "homepage": "https://github.com/AustinMaddox/",
       "role": "Developer"
+    },
+    {
+      "name": "Preston Skupinski",
+      "email": "preston.skupinski@gmail.com",
+      "homepage": "https://github.com/pskupinski/",
+      "role": "Developer"
     }
   ],
   "require": {
     "aws/aws-sdk-php": "^3.130.2",
     "composer/installers": "~1.0",
-    "php": ">=5.5.0"
+    "php": ">=5.6.0"
   },
   "extra": {
     "display-name": "AWS S3",
