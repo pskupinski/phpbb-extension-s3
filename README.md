@@ -12,9 +12,9 @@ This fork adds:
 
 ## Installation
 
-Clone into phpBB/ext/pskupinski/s3:
+Clone into phpBB/ext/AustinMaddox/s3:
 
-    git clone https://github.com/pskupinski/phpbb-extension-s3.git phpBB/ext/pskupinski/s3
+    git clone https://github.com/pskupinski/phpbb-extension-s3.git phpBB/ext/AustinMaddox/s3
 
 Set up the dependencies:
 
